@@ -65,3 +65,7 @@ This repository contains my journey to becoming a full-stack developer, focusing
 ---
 
 Feel free to follow along and explore the code as I progress through this roadmap. Contributions and suggestions are welcome!
+
+## Contact Information
+- Email: [pushpikaliyanagama@gmail.com](mailto:pushpikaliyanagama@gmail.com)
+- LinkedIn: [Pushpika Sandaruwan Liyanagama](https://www.linkedin.com/in/pushpika-sandaruwan-liyanagama-04b827279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
